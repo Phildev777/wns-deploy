@@ -1,0 +1,7 @@
+2023/10/03 08:09:54 [error] 32#32: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:00 [error] 32#32: *4 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:01 [error] 32#32: *5 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:03 [error] 32#32: *6 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:04 [error] 32#32: *7 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:14 [error] 32#32: *9 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/03 08:10:28 [error] 32#32: *12 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
