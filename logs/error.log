@@ -116,3 +116,4 @@
 2023/10/04 08:56:03 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2023/10/04 08:57:12 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2023/10/04 08:58:21 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2023/10/04 08:59:30 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
